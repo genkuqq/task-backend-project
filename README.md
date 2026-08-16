@@ -8,11 +8,10 @@ Kayıt edilen verilen localde tutulmaktadır. Sunucuyu tekrar başlatmak bu veri
 
 #### Özellikler
 
-- Kitap ekleme
-- Kitapları görüntüleme
-- Kitap silme
-- Kitap güncelleme
-- Kitap kayıtlarının localStorage ile saklanması
+- Görev ekleme
+- Görevleri görüntüleme
+- Görev silme
+- Görev güncelleme
 
 #### Ön gereksinimler
 - Node.js
